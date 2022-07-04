@@ -1,0 +1,26 @@
+{
+  "name": "qachallenge",
+  "version": "1.0.0",
+  "description": "QA Automation challenge for Arzion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "qa",
+    "automation",
+    "challenge",
+    "myshop4",
+    "arzion",
+    "cypress",
+    "node",
+    "javascript",
+    "test",
+    "cases"
+  ],
+  "author": "Esteban Ramirez",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.3.0"
+  }
+}
